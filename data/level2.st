@@ -118,17 +118,10 @@ altar w 69 114
 granatek b 95 159
 granatek b 90 159
 cowboys b 329 29
-gents b 348 27
-ladies b 304 25
 stone b 8 103
-hajzlik b 10 96
-hajzlik b 21 96
-hajzlik b 32 96
 uzavera b 20 80
 stone2 w 47 82
 vajgly b 87 126
-gents b 186 29
-ladies b 153 49
 cowboys b 167 34
 vejprnice b 356 132
 stone w 9 189

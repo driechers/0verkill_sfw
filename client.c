@@ -1881,7 +1881,7 @@ cycle:
 		if ((c_was_pressed('+')||c_was_pressed('=')||c_was_pressed(K_UP)||c_was_pressed(K_RIGHT)||c_was_pressed(K_NUM_PLUS)) && !errormsg.flags)
 		{
 			(cfg->color)++;
-			if (cfg->color>30)
+			if (cfg->color>15)
 				cfg->color=1;
 			snprintf(txt, sizeof(txt), "hero%d",cfg->color);
 			if (find_sprite(txt,&sprite))
@@ -1893,7 +1893,7 @@ cycle:
 		{
 			cfg->color--;
 			if (cfg->color<1)
-				cfg->color=30;
+				cfg->color=15;
 			snprintf(txt, sizeof(txt), "hero%d",cfg->color);
 			if (find_sprite(txt,&sprite))
 				{shut_down(0);mem_free(banner);fprintf(stderr,"Error: Can't find sprite \"%s\".\n",txt);}

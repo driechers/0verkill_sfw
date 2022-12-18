@@ -33,10 +33,8 @@ shells		grx/shells.avi
 rough		grx/rough.avi
 magazine	grx/cartridge.avi
 medikit		grx/medikit.avi
-erectus		grx/erectus.avi
 beer		grx/beer.avi
 toadstool	grx/toadstool.avi
-dope		grx/dope.avi
 armor		grx/armor.avi
 water		grx/water.avi
 lava1		grx/lava.avi
@@ -49,16 +47,10 @@ fan		grx/fan.avi
 --BIRTHPLACE--	grx/noise.avi
 granatek	grx/grenade.avi
 jajicko		grx/rg6.avi
-reno		grx/hajzl.avi
-ranger		grx/waltr.avi
-hajzlik		grx/hajzlik.avi
 vajgly		grx/kamelky.avi
 zvaro		grx/camel.avi
-gents		grx/gentlemen.avi
-ladies		grx/ladies.avi
 cowboys		grx/cowboys.avi
 uzavera		grx/closed.avi
-maruska		grx/mar.avi
 vejprnice	grx/reklama.avi
 typek1		grx/guitarist1.avi
 typek2		grx/guitarist2.avi
@@ -69,7 +61,6 @@ zdravy_cukr	grx/melasa.avi
 0verkill	grx/0verkill.avi
 metro		grx/metro.avi
 cedule		grx/forum.avi
-tabule		grx/tabule.avi
 bobule		grx/bednarek.avi
 pytlak		grx/pytlak.avi
 Singer-pozor-neplest-s-kolegou-ktery-vyrabel-sici-stroje-:-)		grx/zpevak.avi

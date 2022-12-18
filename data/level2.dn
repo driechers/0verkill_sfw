@@ -3,10 +3,8 @@ Pohostinstvi_U_Kuceru--to_bude_vecirek! F 819 143
 swing_lamp N 178 320
 jajicko 5 47 226
 jajicko 5 88 110
-ranger N 519 30
 reno N 433 30
 fan N 450 15
-maruska N 353 151
 water F 672 117
 sud+ohen N 630 108
 blood N 197 2
@@ -16,7 +14,6 @@ cloud N 595 69
 water K 732 117
 water K 692 117
 water K 712 117
-dope I 650 116
 --BIRTHPLACE-- B 701 51
 jajicko 5 83 20
 lebzuka A 166 16
@@ -35,7 +32,6 @@ typek2 N 219 98
 typek1 N 234 100
 jajicko 5 201 113
 lebzuka A 497 191
-dope I 403 90
 --BIRTHPLACE-- B 247 98
 kuchaci_cukr K 334 224
 zdravy_cukr M 250 183
@@ -46,7 +42,6 @@ zdravy_cukr M 445 189
 0verkill N 231 86
 metro N 504 270
 bobule N 63 217
-tabule N 15 218
 granatek N 21 223
 pytlak N 383 217
 magazine 1 455 41
